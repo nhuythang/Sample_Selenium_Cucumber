@@ -1,0 +1,7 @@
+com/aduroplatform/stepsdefinition/SupportCenterSteps.class
+com/aduroplatform/testrunners/TestRunner.class
+com/aduroplatform/stepsdefinition/ClientCenterSteps.class
+com/aduroplatform/stepsdefinition/ConnectWellSteps.class
+com/aduroplatform/stepsdefinition/ConnectSteps.class
+com/aduroplatform/stepsdefinition/HeartBeatSteps.class
+com/aduroplatform/stepsdefinition/AduroManagerSteps.class
